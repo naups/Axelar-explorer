@@ -1,5 +1,5 @@
 {
-    "chain_name": "axelar-testnet",
+    "chain_name": "axelarr-testnet",
     "api": [
         "https://rest.axelar-testnet.lava.build/lava-referer-61bce1cd-3b42-4ef1-bf68-d99735aecade"
     ],
